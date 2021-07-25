@@ -1,0 +1,6 @@
+.input_form {
+    width: 800px;
+    margin: 150px;
+    display: flex;
+    justify-content: space-around;
+}
